@@ -1,8 +1,3 @@
-TRAIN TICKET BOOKING APPLICATION
-================================
-
-Folder:
-    MINI
 
 Files:
     funcall.h      function declarations
